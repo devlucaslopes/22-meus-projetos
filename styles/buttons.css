@@ -1,0 +1,17 @@
+.btn {
+  display: block;
+  width: 165px;
+  padding: 12px 0;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.filled {
+  background-color: #04d361;
+  color: #0e091b;
+}
+
+.outline {
+  background-color: transparent;
+  border: 1px solid #04d361;
+}

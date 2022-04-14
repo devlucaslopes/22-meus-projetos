@@ -1,0 +1,23 @@
+.hero {
+  margin: 128px 0;
+}
+
+.hero h2 {
+  font-size: 24px;
+  text-transform: uppercase;
+  color: #04d361;
+  font-weight: 700;
+}
+
+.hero h1 {
+  font-size: 64px;
+  font-weight: 700;
+  margin: 12px 0 32px 0;
+}
+
+.hero p {
+  max-width: 832px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #aeaeae;
+}

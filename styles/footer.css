@@ -1,0 +1,12 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 128px;
+  padding: 16px 0;
+}
+
+footer > span {
+  font-family: "IBM Plex Mono";
+  color: #aeaeae;
+}
